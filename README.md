@@ -10,12 +10,6 @@
 - Threaded: one thread per incoming connection
 - Server-side domain name resolution support
 
-TODO:
-
-- Enforcing ruleset to mitigate security disks (i.e. firewalling)
-- UDP ASSOCIATE requests support
-- GSSAPI authentication support
-
 ## Installation
 
 **awaawaa** was tested on *Debian GNU/Linux sid*, but it may work on other
